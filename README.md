@@ -1,8 +1,8 @@
 ## La lista asomobrosa
 
-## Funtional Programming
-- [Sofware composition](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
-- [Sofware composition](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
+## Functional Programming
+- [Software composition](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+- [Software composition](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 - [What is a closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [What is a pure function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Functional Programming For People Who Hate Math](https://www.youtube.com/watch?v=SlfipOW_ilU)
