@@ -6,6 +6,9 @@
 - [What is a closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - [What is a pure function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Functional Programming For People Who Hate Math](https://www.youtube.com/watch?v=SlfipOW_ilU)
+- [ft-ts](https://github.com/gcanti/fp-ts)
+- [Sanctuary](https://github.com/sanctuary-js/sanctuary)
+- [Purescript](http://www.purescript.org/)
 
 ## Typescript
 - [You may no need typescript](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
@@ -86,6 +89,8 @@
 - [Gatsby](https://www.gatsbyjs.org/)
 - [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)
 - [Ng inspector](https://chrome.google.com/webstore/detail/ng-inspector-for-angularj/aadgmnobpdmgmigaicncghmmoeflnamj)
+- [Mori](https://github.com/swannodette/mori)
+
 ## Dockers
 - [Docker for development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24)
 - [Deploying pull request](https://blog.codecentric.de/en/2017/01/deploying-pull-requests-docker/)
